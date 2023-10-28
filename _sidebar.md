@@ -1,4 +1,3 @@
-- [Get Started](README.md)
 - [Day 01 - Introduction](01_Day_Introduction/01_day_Introduction.md)
 - [Day 02 - Data Types](02_Day_Data_types/02_day_data_types.md)
 - [Day 03 - Booleans, Operators, Date](03_Day_Booleans_operators_date/03_booleans_operators_date.md)

@@ -1,5 +1,4 @@
 <!-- _coverpage.md -->
-[GitHub](https://github.com/UlbertAO/30-Days-Of-JavaScript)
 [Get Started](README.md)
 
 <!-- background image -->
