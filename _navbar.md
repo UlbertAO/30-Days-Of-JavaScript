@@ -1,0 +1,11 @@
+* Translations
+  * [English](readMe.md)
+  * [Spanish](Spanish/readme.md)
+  * [Italian](Italian/readMe.md)
+  * [Russian](RU/README.md)
+  * [Turkish](Turkish/readMe.md)
+  * [Azerbaijan](Azerbaijani/readMe.md)
+  * [Korean](Korea/README.md)
+  * [Vietnamese](Vietnamese/README.md)
+  * [Polish](Polish/readMe.md)
+  * [Portuguese](Portuguese/readMe.md)
